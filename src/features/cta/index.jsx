@@ -18,8 +18,8 @@ const CTA = () => {
                     Interested in collaborating with me?
                 </Typography>
                 <Typography variant="h3" sx={{ marginBottom: "45px" }}>
-                    I’m always open to discussing product design work or
-                    partnership opportunities.
+                    I’m always open to discussing job or partnership
+                    opportunities.
                 </Typography>
                 <Link to="/contact" style={{ textDecoration: "none" }}>
                     <Button variant="outlined" sx={{ fontSize: "22px" }}>
